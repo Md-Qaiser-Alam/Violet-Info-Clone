@@ -23,7 +23,7 @@ Check it out here: **[Violet Clone](https://violet-clone.vercel.app/)**
 - Enhance UI with modern CSS frameworks  
 
 ## Author  
-Built by **[Md Qaiser Alam]** when I was a beginner in web development! 🚀  
+Built by **Md Qaiser Alam** when I was a beginner in web development! 🚀  
 
 ---
 
